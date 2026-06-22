@@ -53,13 +53,13 @@ Interactive Spotify-inspired dashboard for music exploration and recommendation.
 ## Dashboard Preview
 
 ### Home Dashboard
-![Dashboard](Images/Dashboard(1).png)
+![Dashboard](images/dashboard1.png)
 
 ### Audio Insights
-![Audio Insights](Images/Dashboard2().png)
+![Audio Insights](images/dashboard2.png)
 
 ### Recommendations
-![Recommendations](Images/Dashboard(3).png)
+![Recommendations](images/dashboard3.png)
 
 ### Song-to-Song Recommendation
-![Song Recommendation](Images/Dashboard(4).png)
+![Song Recommendation](images/dashboard4.png)
