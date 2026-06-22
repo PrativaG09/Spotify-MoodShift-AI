@@ -6,6 +6,12 @@ Spotify MoodShift AI helps users explore music patterns, analyze audio features,
 
 ---
 
+## Live Demo
+
+🚀 Live Application:
+https://spotify-moodshift-ai-ay5cbfdgecmr3qcvpdl49u.streamlit.app/
+
+---
 ## 🚀 Features
 
 ### 📊 Music Analytics
