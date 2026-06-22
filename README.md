@@ -50,16 +50,20 @@ Interactive Spotify-inspired dashboard for music exploration and recommendation.
 
 # Spotify MoodShift AI
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ### Home Dashboard
-![Dashboard](images/dashboard1.png)
+
+![Dashboard Home](images/dashboard_home.png)
 
 ### Audio Insights
-![Audio Insights](images/dashboard2.png)
+
+![Audio Insights](images/audio_insights.png)
 
 ### Recommendations
-![Recommendations](images/dashboard3.png)
+
+![Recommendations](images/recommendations.png)
 
 ### Song-to-Song Recommendation
-![Song Recommendation](images/dashboard4.png)
+
+![Song Recommendation](images/song_recommendation.png)
